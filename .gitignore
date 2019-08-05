@@ -1,0 +1,6 @@
+bin/
+lib/
+sqlite/
+.classpath
+.project
+.settings/
